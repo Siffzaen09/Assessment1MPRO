@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jajar Genjang</string>
+    <string name="jg_intro">Masukan Alas dan Tinggi Jajar Genjang Dibawah Ini!</string>
+    <string name="alas">Alas (cm)</string>
+    <string name="tinggi">Tinggi (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="reset">Reset</string>
+    <string name="luas_x">Luas : %1$.2f cm</string>
+    <string name="alas_invalid">Alas tidak boleh kosong.</string>
+    <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
+</resources>
