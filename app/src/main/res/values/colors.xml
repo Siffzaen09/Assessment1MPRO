@@ -8,5 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="salmon">#FFA07A</color>
     <color name="orange_500">#FF4500</color>
+    <color name="white">#FFFFFFFF</color>
     <color name="tomat_700">#FF6347</color>
+    <color name="alas">#F57F17</color>
+    <color name="tinggi">#2E7D32</color>
+    <color name="hasil">#D32F2F</color>
 </resources>
